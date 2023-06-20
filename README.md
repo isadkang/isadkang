@@ -13,6 +13,8 @@
 ```javascript
 const IsdNat = {
   pronouns: "he" | "him",
+  Birth: "15 August 2006",
+  Code: "Since 2021",
   code: [Javascript, Typescript, HTML, CSS, PHP, C++],
   tools: [React, Redux, Node, Storybook, Styled-Components, Laravel, Next],
   architecture: ["microservices", "event-driven", "design system pattern"],
