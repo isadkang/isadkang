@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const IsdNat = {
+const irsyadNat = {
   pronouns: "he" | "him",
   Birth: "15 August 2006",
   Code: "Since 2021",
@@ -23,7 +23,7 @@ const IsdNat = {
                         Mentor: "Dea Afrizal || Wikrama teachers",
                         Mentor2: "Sandika Galih | Web Programming Unpas"
                       },
- challenge: "Learning ReactNative, ReactJs Laravel "
+ challenge: "Still Learning React && Laravel "
 }
 ```
 
