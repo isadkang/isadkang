@@ -23,7 +23,7 @@ const IsdNat = {
                         Mentor: "Dea Afrizal || Wikrama teachers",
                         Mentor2: "Sandika Galih | Web Programming Unpas"
                       },
- challenge: "I am now focused on React and Express || Laravel"
+ challenge: "Learning ReactNative, ReactJs Laravel "
 }
 ```
 
