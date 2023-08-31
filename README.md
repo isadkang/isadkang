@@ -16,8 +16,8 @@ const irsyadNat = {
   Birth: "15 August 2006",
   Code: "Since 2020",
   code: [Javascript, HTML, CSS, PHP, C++],
-  tools: [React, Node, Storybook, Styled-Components, Laravel, Next],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Node, Styled-Components, Laravel, Next],
+  architecture: ["Design Website", "design system pattern"],
   techCommunities: {
                         Organization: "Cuy Universe || PPLG Wikrama",
                         Mentor: "Dea Afrizal || Wikrama teachers",
