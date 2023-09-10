@@ -26,10 +26,8 @@ const irsyadNat = {
  challenge: "Still Learning React && Laravel "
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&hide_progress=true)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang)
 
