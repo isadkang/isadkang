@@ -31,5 +31,5 @@ const irsyadNat = {
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang)
 
