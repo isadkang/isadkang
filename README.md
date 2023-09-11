@@ -15,14 +15,16 @@ const irsyadNat = {
   pronouns: "he" | "him",
   Birth: "15 August 2006",
   Code: "Since 2020",
-  code: [Javascript, HTML, CSS, PHP, C++],
-  tools: [React, Node, Styled-Components, Laravel, Next],
+  code: [
+          [Javascript, HTML, CSS, PHP, C++],
+          [React, Node, Styled-Components, Laravel, Next]
+        ]
   architecture: ["Design Website", "design system pattern"],
   techCommunities: {
                         Organization: "Cuy Universe || PPLG Wikrama",
                         Mentor: "Dea Afrizal || Wikrama teachers",
                         Mentor2: "Sandika Galih | Web Programming Unpas"
-                      },
+                   },
  challenge: "Still Learning React && Laravel "
 }
 ```
