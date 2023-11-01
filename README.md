@@ -15,9 +15,9 @@ const irsyadNat = {
   pronouns: "he" | "him",
   Birth: "15 August 2006",
   Code: "Since 2020",
-  code: [
-          [Javascript, HTML, CSS, PHP, C++],
-          [React, Node, Styled-Components, Laravel, Next]
+  tools: [
+          { 'Javascript', 'HTML', 'CSS', 'React', 'PHP', 'C++' },
+          { 'NodeJs', 'Tailwindcss', 'Vue', 'Native', 'Laravel' }
         ]
   architecture: ["Design Website", "design system pattern"],
   techCommunities: {
