@@ -28,7 +28,7 @@ const irsyadNat = {
  challenge: "Still Learning React && Laravel "
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&layout=donut)](https://github.com/isadkang/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&hide_progress=true)
 
 ---
 
