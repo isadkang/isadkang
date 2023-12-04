@@ -17,7 +17,7 @@ const irsyadNat = {
   Code: "Since 2020",
   tools: [
           { 'Javascript', 'HTML', 'CSS', 'React', 'PHP', 'C++' },
-          { 'Node Js', 'Tailwindcss', 'Vue', 'Native', 'Laravel' }
+          { 'Node Js', 'Tailwind Css', 'Vue', 'Native', 'Laravel' }
         ],
   architecture: ["Design Website", "design system pattern"],
   techCommunities: {
