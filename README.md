@@ -18,14 +18,14 @@ const irsyadNat = {
   tools: [
           { 'Javascript', 'HTML', 'CSS', 'React', 'PHP', 'C++' },
           { 'NodeJs', 'Tailwindcss', 'Vue', 'Native', 'Laravel' }
-        ]
+        ],
   architecture: ["Design Website", "design system pattern"],
   techCommunities: {
                         Organization: "Cuy Universe || PPLG Wikrama",
                         Mentor: "Dea Afrizal || Wikrama teachers",
                         Mentor2: "Sandika Galih | Web Programming Unpas"
                    },
- challenge: "Still Learning React && Laravel "
+ progress: "Still Learning React and Laravel "
 }
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&layout=compact&hide_progress=false)
