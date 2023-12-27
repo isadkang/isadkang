@@ -28,6 +28,6 @@ const irsyadNat = {
  progress: "Still Learning React and Laravel "
 }
 ```
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/isadkang/LOC)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/isadkang/langs)](https://githubtrends.io)
 ---
 
