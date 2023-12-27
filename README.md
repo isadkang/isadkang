@@ -1,4 +1,4 @@
-<h2> Hi, I'm Muhammad Irsyad Nataprawira! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 Hi, I'm Muhammad Irsyad Nataprawira! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' " src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif" width="200">
 <p><em> I am a Full stack developer studying at <a href="http://">Wikrama Vocational School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 </em></p>
