@@ -28,6 +28,6 @@ const irsyadNat = {
  progress: "Still Learning React and Laravel "
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&hide_progress=true) [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/isadkang/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&hide_progress=true) 
 ---
 
