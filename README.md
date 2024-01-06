@@ -16,8 +16,8 @@ const irsyadNat = {
   Birth: "15 August 2006",
   Code: "Since 2020",
   tools: [
-          { 'Javascript', 'HTML', 'CSS', 'React', 'PHP', 'C++' },
-          { 'Node Js', 'Tailwind Css', 'Vue', 'Laravel' }
+          { 'HTML', 'CSS', 'Javascript', 'PHP', 'C++', 'Typescript' },
+          { 'Node Js', 'Bootstrap', 'Tailwind Css', 'Vue', 'Laravel', 'React' }
         ],
   architecture: ["Design Website", "design system pattern"],
   techCommunities: {
@@ -25,7 +25,7 @@ const irsyadNat = {
                         Mentor: "Dea Afrizal || Wikrama teachers",
                         Mentor2: "Sandika Galih | Web Programming Unpas"
                    },
- progress: "Still Learning React and Laravel "
+ progress: "Still Learning React Native and Laravel "
 }
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&hide_progress=true) 
