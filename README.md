@@ -28,6 +28,9 @@ const irsyadNat = {
  progress: "Still Learning React Native and Laravel "
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadkang&hide_progress=true) 
----
-
+<p align="left">
+<a href="https://github.com/isadkang">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isadkang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isadkang&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
