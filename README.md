@@ -16,8 +16,8 @@ const irsyadNat = {
   Birth: "15 August 2006",
   Code: "Since 2020",
   tools: [
-          { 'HTML', 'CSS', 'Javascript', 'PHP', 'C++', 'Typescript' },
-          { 'Node Js', 'Bootstrap', 'Tailwind Css', 'Vue', 'Laravel', 'React' }
+          { 'HTML', 'CSS', 'Javascript', 'PHP', 'C++', 'Typescript', Dart },
+          { 'Node Js', 'Bootstrap', 'Tailwind Css', 'Vue', 'Laravel', 'React', 'React Native', 'Flutter' }
         ],
   architecture: ["Design Website", "design system pattern"],
   techCommunities: {
@@ -25,7 +25,7 @@ const irsyadNat = {
                         Mentor: "Dea Afrizal || Wikrama teachers",
                         Mentor2: "Sandika Galih | Web Programming Unpas"
                    },
- progress: "Still Learning React Native and Laravel "
+ progress: "Currently learning React Native and Flutter "
 }
 ```
 <p align="left">
