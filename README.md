@@ -15,17 +15,23 @@ const irsyadNat = {
   pronouns: "he" | "him",
   Birth: "15 August 2006",
   Code: "Since 2020",
-  tools: [
-          { 'HTML', 'CSS', 'Javascript', 'PHP', 'C++', 'Typescript', Dart },
-          { 'Node Js', 'Bootstrap', 'Tailwind Css', 'Vue', 'Laravel', 'React', 'React Native', 'Flutter' }
-        ],
-  architecture: ["Design Website", "design system pattern"],
-  techCommunities: {
-                        Organization: "Cuy Universe || PPLG Wikrama",
-                        Mentor: "Dea Afrizal || Wikrama teachers",
-                        Mentor2: "Sandika Galih | Web Programming Unpas"
-                   },
- progress: "Currently learning React Native and Flutter "
+
+  toolsUsing: [
+    { language: "Dart", framework: ["Flutter"] },
+    { language: "Javascript", framework: ["React Js", "React Native", "Vue Js", "Express Js"] },
+    { language: "PHP", framework: ["Laravel"] }
+  ],
+
+  Organization: [
+    {
+      name: "JagoScript.co"
+    },
+    {
+      name: "PPLG Wikrama"
+    }
+  ]
+  
+  notes: "Just Code, Still Code. LIFE CODE!"
 }
 ```
 <p align="left">
