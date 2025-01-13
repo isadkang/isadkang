@@ -13,8 +13,7 @@
 ```javascript
 const irsyadNat = {
   pronouns: "he" | "him",
-  Birth: "15 August 2006",
-  Code: "Since 2020",
+  code: "Since 2020",
 
   toolsUsing: [
     { language: "Dart", framework: ["Flutter"] },
