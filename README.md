@@ -17,7 +17,7 @@ const irsyadNat = {
 
   toolsUsing: [
     { language: "Dart", framework: ["Flutter"] },
-    { language: "Javascript", framework: ["React Js", "React Native", "Vue Js", "Express Js"] },
+    { language: "Javascript", framework: ["React Js", "React Native", "Vue Js", "Express Js", "NextJS"] },
     { language: "PHP", framework: ["Laravel"] }
   ],
 
