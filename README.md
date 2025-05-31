@@ -16,6 +16,7 @@ const irsyadNat = {
   code: "Since 2020",
 
   toolsUsing: [
+    { language: "Java", framework: ["Spring Boot"] },
     { language: "Dart", framework: ["Flutter"] },
     { language: "Javascript", framework: ["React Js", "React Native", "Vue Js", "Express Js", "NextJS"] },
     { language: "PHP", framework: ["Laravel"] }
