@@ -4,7 +4,7 @@
 </em></p>
 
 [![Instagram: isadsnata_](https://img.shields.io/badge/-MIrsyadNat-fuchsia?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/isadsnata_/)
-[![Linkedin: MIrsyadNat](https://img.shields.io/badge/-MIrsyadNat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-irsyad-nataprawira-830b83249/)](https://www.linkedin.com/in/muhammad-irsyad-nataprawira-830b83249/)
+[![Linkedin: MIrsyadNat](https://img.shields.io/badge/-MIrsyadNat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-irsyad-nataprawira/)](https://www.linkedin.com/in/muhammad-irsyad-nataprawira-830b83249/)
 [![GitHub Irsyads](https://img.shields.io/github/followers/isadkang?label=follow&style=social)](https://github.com/isadkang)
 
 
